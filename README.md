@@ -35,7 +35,6 @@ Hey! I'm **Samuel Ogbonna** — an intermediate Python developer and web designe
 
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00FF41)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-0D1117?style=for-the-badge&logo=kalilinux&logoColor=557C94)
-![Bash](https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=00FF41)
 
 **Web Development & Design**
 
@@ -55,42 +54,37 @@ Hey! I'm **Samuel Ogbonna** — an intermediate Python developer and web designe
 - 🗄️ Encrypted Password Manager using Fernet cryptography
 - 🎨 Animated terminal UI with gradient banners
 
-### 🌐 Whois Tool
-> An OSINT tool for investigating domain names — reveals ownership, registration dates, hosting info, and expiry. Built for investigating suspicious websites.
-
-### 🔜 Coming Soon
-| Tool | Type | Status |
-|------|------|--------|
-| Network Scanner | Recon | 🔨 Planning |
-| OSINT Framework | Intelligence | 🔨 Planning |
-| Forensics Toolkit | Forensics | 🔨 Planning |
-| Exploit Tools | Offensive Security | 🔨 Planning |
-
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
+## 📊 GitHub Activity
 
-![Samuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xg0fath3r&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xg0fath3r&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41)
-
-</div>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=0xg0fath3r&theme=react-dark&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&hide_border=true)
 
 ---
+## 📊 Progress
+
+| Area | Level |
+|------|-------|
+| Python | ⭐⭐⭐⭐☆ |
+| Kali Linux Tools | ⭐⭐⭐⭐☆ |
+| Web Design (Figma) | ⭐⭐⭐⭐☆ |
+| WordPress/Elementor | ⭐⭐⭐⭐☆ |
+| Security Engineering | ⭐⭐⭐☆☆ |
 
 ## 🤝 Let's Connect
 
 <div align="center">
 
 [![X (Twitter)](https://img.shields.io/badge/X_(Twitter)-0D1117?style=for-the-badge&logo=x&logoColor=white)](https://x.com/FundRaiser96)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:rileyescober2025@gmail.com)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:ogbonnachigoziem96@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xg0fath3r)
 
 </div>
 
 ---
+
 
 <div align="center">
 

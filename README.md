@@ -23,7 +23,7 @@ Hey! I'm **Samuel Ogbonna** — an intermediate Python developer and web designe
 
 - 🔐 Aspiring **Security Engineer**
 - 🐍 Python developer specializing in **Kali Linux tools**
-- 🌐 Web developer & designer using **WordPress**, **Elementor** and **Figma**
+- 🌐 Web developer & designer using **WordPress**, and **Figma**
 - 🛠️ Currently building security tools and websites
 - 🎯 Goal: Create tools that make security professionals more powerful
 
@@ -67,10 +67,10 @@ Hey! I'm **Samuel Ogbonna** — an intermediate Python developer and web designe
 
 | Area | Level |
 |------|-------|
-| Python | ⭐⭐⭐⭐☆ |
-| Kali Linux Tools | ⭐⭐⭐⭐☆ |
-| Web Design (Figma) | ⭐⭐⭐⭐☆ |
-| WordPress/Elementor | ⭐⭐⭐⭐☆ |
+| Python | ⭐⭐⭐☆☆ |
+| Kali Linux Tools | ⭐⭐⭐☆☆ |
+| Web Design (Figma) | ⭐☆☆☆☆ |
+| WordPress | ⭐⭐☆☆☆ |
 | Security Engineering | ⭐⭐⭐☆☆ |
 
 ## 🤝 Let's Connect

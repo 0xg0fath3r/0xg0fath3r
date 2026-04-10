@@ -19,7 +19,7 @@
 
 ## 👋 About Me
 
-Hey! I'm **Samuel Ogbonna** — an intermediate Python developer and web designer with a deep passion for **cybersecurity** and **creative web experiences**. I build practical tools for pentesters and security enthusiasts, while also crafting clean and powerful websites.
+Hey! I'm **Samuel Ogbonna** — an intermediate Python developer and web designer with a deep passion for **cybersecurity** and **creative web experiences**. I build practical tools for pentesters and security enthusiasts, while also learnig how to crafting clean and powerful websites.
 
 - 🔐 Aspiring **Security Engineer**
 - 🐍 Python developer specializing in **Kali Linux tools**

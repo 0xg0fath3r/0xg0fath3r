@@ -17,7 +17,7 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 Hey! I'm **Samuel Ogbonna** — an intermediate Python developer and web designer with a deep passion for **cybersecurity** and **creative web experiences**. I build practical tools for pentesters and security enthusiasts, while also learnig how to crafting clean and powerful websites.
 
@@ -30,7 +30,7 @@ Hey! I'm **Samuel Ogbonna** — an intermediate Python developer and web designe
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 **Security & Scripting**
 
@@ -48,24 +48,24 @@ Hey! I'm **Samuel Ogbonna** — an intermediate Python developer and web designe
 
 ---
 
-## 🚀 Key Projects
+## Key Projects
 
-### 🔐 [Password Office](https://github.com/0xg0fath3r/password-office)
+### [Password Office](https://github.com/0xg0fath3r/password-office)
 > A full-featured Kali Linux CLI password security suite built in Python.
-- 🔑 Password Generator, Strength Checker, Policy Checker
-- 🗄️ Encrypted Password Manager using Fernet cryptography
-- 🎨 Animated terminal UI with gradient banners
+- Password Generator, Strength Checker, Policy Checker
+- Encrypted Password Manager using Fernet cryptography
+- Animated terminal UI with gradient banners
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=0xg0fath3r&theme=react-dark&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&hide_border=true)
 
 ---
-## 📊 Progress
+## Progress
 
 | Area | Level |
 |------|-------|
@@ -76,7 +76,7 @@ Hey! I'm **Samuel Ogbonna** — an intermediate Python developer and web designe
 | Security Engineering | ⭐⭐⭐☆☆ |
 | FullStack Development | ⭐⭐⭐☆☆ |
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
 
@@ -95,6 +95,6 @@ Hey! I'm **Samuel Ogbonna** — an intermediate Python developer and web designe
 > Always learning. Always building. Always securing. _
 ```
 
-⭐ **If you find my tools useful, consider giving them a star!** ⭐
+ **If you find my tools useful, consider giving them a star!** ⭐
 
 </div>

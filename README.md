@@ -21,11 +21,12 @@
 
 Hey! I'm **Samuel Ogbonna** — an intermediate Python developer and web designer with a deep passion for **cybersecurity** and **creative web experiences**. I build practical tools for pentesters and security enthusiasts, while also learnig how to crafting clean and powerful websites.
 
-- 🔐 Aspiring **Security Engineer**
-- 🐍 Python developer specializing in **Kali Linux tools**
-- 🌐 Web developer & designer using **WordPress**, and **Figma**
-- 🛠️ Currently building security tools and websites
-- 🎯 Goal: Create tools that make security professionals more powerful
+- Aspiring **Security Engineer**
+- Aspiring **FullStack Developer**
+- Python developer specializing in **Kali Linux tools**
+- Web developer & designer using **WordPress**, and **Figma**
+- Currently building security tools and websites
+- Goal: Create tools that make security professionals more powerful
 
 ---
 
@@ -43,6 +44,7 @@ Hey! I'm **Samuel Ogbonna** — an intermediate Python developer and web designe
 ![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E)
 ![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ---
 
@@ -72,6 +74,7 @@ Hey! I'm **Samuel Ogbonna** — an intermediate Python developer and web designe
 | Web Design (Figma) | ⭐☆☆☆☆ |
 | WordPress | ⭐⭐☆☆☆ |
 | Security Engineering | ⭐⭐⭐☆☆ |
+| FullStack Development | ⭐⭐⭐☆☆ |
 
 ## 🤝 Let's Connect
 

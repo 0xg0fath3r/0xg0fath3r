@@ -33,10 +33,12 @@ Hey! I'm **Samuel Ogbonna** — a Python developer and also an aspiring Full-Sta
 ## Tech Stack
 
 **Security & Scripting**
+
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00FF41)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-0D1117?style=for-the-badge&logo=kalilinux&logoColor=557C94)
 
 **Web Development & Design**
+
 ![WordPress](https://img.shields.io/badge/WordPress-0D1117?style=for-the-badge&logo=wordpress&logoColor=21759B)
 ![Elementor](https://img.shields.io/badge/Elementor-0D1117?style=for-the-badge&logo=elementor&logoColor=92003B)
 ![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E)

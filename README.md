@@ -74,7 +74,7 @@ Hey! I'm **Samuel Ogbonna** — a Python developer and also an aspiring Full-Sta
 | Web Design (Figma) | ⭐☆☆☆☆ |
 | WordPress | ⭐⭐☆☆☆ |
 | Security Engineering | ⭐⭐⭐☆☆ |
-| FullStack Development | ⭐⭐⭐☆☆ |
+| Full-Stack Development | ⭐⭐⭐☆☆ |
 
 ## Let's Connect
 

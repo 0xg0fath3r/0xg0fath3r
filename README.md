@@ -24,7 +24,7 @@ Hey! I'm **Samuel Ogbonna** — a Python developer and also an aspiring Full-Sta
 - Aspiring **Security Engineer**
 - Aspiring **FullStack Developer**
 - Python developer specializing in **Kali Linux tools**
-- Web developer & designer using **WordPress**, and **Figma**
+- Web developer using **HTML**, **CSS**, **JavaScript**, and **WordPress**
 - Currently building security tools and websites
 - Goal: Create tools that make security professionals more powerful
 
@@ -40,8 +40,6 @@ Hey! I'm **Samuel Ogbonna** — a Python developer and also an aspiring Full-Sta
 **Web Development & Design**
 
 ![WordPress](https://img.shields.io/badge/WordPress-0D1117?style=for-the-badge&logo=wordpress&logoColor=21759B)
-![Elementor](https://img.shields.io/badge/Elementor-0D1117?style=for-the-badge&logo=elementor&logoColor=92003B)
-![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E)
 ![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)

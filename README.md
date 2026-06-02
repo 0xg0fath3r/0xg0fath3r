@@ -9,7 +9,7 @@
  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═╝     ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝
 ```
 
-### `> Ogbonna Samuel _ Security Engineer & Web Developer`
+### `> Chiagoziem Ogbonna _ Security Engineer & Web Developer`
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Building+Kali+Linux+Security+Tools+%F0%9F%94%90;Crafting+Beautiful+Websites+%F0%9F%8C%90;Python+Developer+%7C+Security+Engineer;OSINT+%7C+Forensics+%7C+Exploitation+Tools)
 
@@ -19,7 +19,7 @@
 
 ## About Me
 
-Hey! I'm **Samuel Ogbonna** — a Python developer and also an aspiring Full-Stack Developer with a deep passion for **cybersecurity** and **creative web experiences**. I build practical tools for pentesters and security enthusiasts, while also learnig how to crafting clean and powerful websites.
+Hey! I'm **Chiagoziem Ogbonna** — a Python developer and also an aspiring Full-Stack Developer with a deep passion for **cybersecurity** and **creative web experiences**. I build practical tools for pentesters and security enthusiasts, while also learnig how to crafting clean and powerful websites.
 
 - Aspiring **Security Engineer**
 - Aspiring **FullStack Developer**
